@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**zadewu/zadewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Platform & DevOps Engineer** with a background as a **Senior Java Full-Stack Developer**.
 
-Here are some ideas to get you started:
+I enjoy designing cloud platforms that make developers more productive through automation, reusable infrastructure, and self-service tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+- ☁️ Azure & AWS Cloud
+- 🏗️ Infrastructure as Code with Terraform/OpenTofu
+- 🚀 CI/CD with GitHub Actions
+- 🔧 Internal Developer Platforms
+- 🖥️ Go tooling & automation
+- 📦 Containers & Kubernetes
