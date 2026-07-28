@@ -1,14 +1,38 @@
-## 👋 About Me
+# Hi, I'm Huy 👋
 
-I'm a **Platform & DevOps Engineer** with a background as a **Senior Java Full-Stack Developer**.
+**Platform & DevOps Engineer** | Former **Senior Java Full-Stack Developer**
 
-I enjoy designing cloud platforms that make developers more productive through automation, reusable infrastructure, and self-service tooling.
+I build cloud platforms and developer tooling on **Azure** and **AWS** using **Terraform** and **Go**. With a background in full-stack development, I still enjoy building modern web applications with **Angular**.
 
-### What I do
+---
 
-- ☁️ Azure & AWS Cloud
-- 🏗️ Infrastructure as Code with Terraform/OpenTofu
-- 🚀 CI/CD with GitHub Actions
-- 🔧 Internal Developer Platforms
-- 🖥️ Go tooling & automation
-- 📦 Containers & Kubernetes
+## 🚀 Current Focus
+
+- Platform Engineering
+- Cloud Architecture (Azure & AWS)
+- Infrastructure as Code (Terraform/OpenTofu)
+- GitHub Actions & CI/CD
+- Automation with Go
+
+---
+
+## 🛠 Tech Stack
+
+**Cloud**  
+Azure • AWS
+
+**Platform**  
+Terraform • OpenTofu • Kubernetes • Docker
+
+**Backend**  
+Go • Java • Spring Boot
+
+**Frontend**  
+Angular • TypeScript
+
+**CI/CD**  
+GitHub Actions • Jenkins
+
+## 🤝 Connect
+
+LinkedIn • Website • Blog
