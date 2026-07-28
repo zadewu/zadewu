@@ -6,11 +6,11 @@
 
 I build cloud platforms and developer tooling on **Azure** and **AWS** using **Terraform** and **Go**. I also enjoy frontend development, with **Angular** as my preferred framework.
 
----
-
 ### ⚡ Tech
 
-**Cloud** • Azure • AWS
-**Platform** • Terraform • Kubernetes • Docker • GitHub Actions
-**Backend** • Go • Java • Spring Boot
-**Frontend** • Angular • TypeScript
+| Category | Technologies |
+|----------|--------------|
+| ☁️ Cloud | Azure • AWS |
+| 🏗 Platform | Terraform • Kubernetes • Docker • GitHub Actions |
+| 💻 Backend | Go • Java • Spring Boot |
+| 🎨 Frontend | Angular • TypeScript |
